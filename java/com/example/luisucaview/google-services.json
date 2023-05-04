@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764127743853",
+    "project_id": "luisucaview",
+    "storage_bucket": "luisucaview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764127743853:android:cf4b3241a4dbf327911464",
+        "android_client_info": {
+          "package_name": "com.example.luisucaview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764127743853-mo3nnbbar10md9408qvj0si7mm7570h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FQYp8MhsF7uPmx9_I9OdC8kMPMvUo3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764127743853-mo3nnbbar10md9408qvj0si7mm7570h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
